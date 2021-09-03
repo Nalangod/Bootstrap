@@ -1,0 +1,8 @@
+.grid-layout.container {
+  border: 1px solid rgb(204, 23, 17) !important;
+}
+
+ol>li{
+  display: inline;
+  padding-right: 10px;
+}
